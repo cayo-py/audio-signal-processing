@@ -44,7 +44,7 @@ Time-Domain Analysis: Plotting signal amplitude over time.
 
 The script is divided into several logical sections.
 
-1. *Load and Preprocessing*
+1. **Load and Preprocessing**
 
     First, the script loads the audio file `original_audio.wav` using `audioread`. It ensures the audio is mono by taking only the first channel. A time vector `t` is also created for plotting purposes.
 
